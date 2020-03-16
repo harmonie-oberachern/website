@@ -18,6 +18,10 @@ Custom by Florian Vogt
 	font-weight: bold;
 }
 
+.contact {
+	margin-bottom: 3.0rem;
+}
+
 .dataProtectionLink {
 	float: left;
 }
@@ -40,6 +44,10 @@ Custom by Florian Vogt
 
 #datenschutzKontakt {
 	margin-bottom: 1.6rem;
+}
+
+#linkToJugendContainer {
+	text-align: center;
 }
 
 /*
