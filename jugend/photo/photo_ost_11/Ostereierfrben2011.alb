@@ -1,0 +1,70 @@
+<webalbum version="1.8.2">
+  <title>Ostereierfärben 2011</title>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <homeurl>http://www.mvoberachern.de</homeurl>
+    <outputdirectory>C:\Dokumente und Einstellungen\Flo\Eigene Dateien\Website\Ostereierfrben2011\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Winery</colourscheme>
+    <pagecolor>3343190</pagecolor>
+    <textcolor>15000817</textcolor>
+    <linkcolor>9540040</linkcolor>
+    <hotlinkcolor>13619175</hotlinkcolor>
+    <thumbnailrows>4</thumbnailrows>
+    <thumbnailcols>3</thumbnailcols>
+    <navigationbelowphoto>True</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <title>Die Mädchenecke</title>
+      <filename>G:\Ostereierfärben\IMG_6578.JPG</filename>
+    </photo>
+    <photo>
+      <title>Die Mädchenecke2</title>
+      <filename>G:\Ostereierfärben\IMG_6539.JPG</filename>
+    </photo>
+    <photo>
+      <title>Felicitas und Carla beim Färben</title>
+      <filename>G:\Ostereierfärben\IMG_6542.JPG</filename>
+    </photo>
+    <photo>
+      <title>Felix, Elias, Tobias und Philipp</title>
+      <filename>G:\Ostereierfärben\IMG_6544.JPG</filename>
+    </photo>
+    <photo>
+      <title>Die Jungsecke</title>
+      <filename>G:\Ostereierfärben\IMG_6545.JPG</filename>
+    </photo>
+    <photo>
+      <title>Manuel und Lukas</title>
+      <filename>G:\Ostereierfärben\IMG_6547.JPG</filename>
+    </photo>
+    <photo>
+      <title>Sebastian und Chris beim Färben</title>
+      <filename>G:\Ostereierfärben\IMG_6548.JPG</filename>
+    </photo>
+    <photo>
+      <title>Lorenz färbt auch</title>
+      <filename>G:\Ostereierfärben\IMG_6549.JPG</filename>
+    </photo>
+    <photo>
+      <title>Klara und Selina</title>
+      <filename>G:\Ostereierfärben\IMG_6551.JPG</filename>
+    </photo>
+    <photo>
+      <title>Die ganze Meute</title>
+      <filename>G:\Ostereierfärben\IMG_6554.JPG</filename>
+    </photo>
+    <photo>
+      <title>Alle bewundern Vincents Werk</title>
+      <filename>G:\Ostereierfärben\IMG_6567.JPG</filename>
+    </photo>
+    <photo>
+      <title>Die Jungsecke2</title>
+      <filename>G:\Ostereierfärben\IMG_6577.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>

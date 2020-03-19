@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ostereierfärben 2012</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>2012-04-07 14.22.31</title>
+            <link>slides/2012-04-07 14.22.31.html#</link>
+            <pubDate>Tue, 02 Oct 2012 18:40:15 +0200</pubDate>
+            <description>Unsere Mädels</description>
+            <media:description type="html">Unsere Mädels</media:description>
+            <media:thumbnail url="thumbs/2012-04-07 14.22.31.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/2012-04-07 14.22.31.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="07.04.12 14:22" cameraMake="SAMSUNG" cameraModel="GT-S5830"/>
+            <guid isPermaLink="false">slides/2012-04-07 14.22.31.jpg</guid>
+        </item>
+        <item>
+            <title>2012-04-07 15.17.25</title>
+            <link>slides/2012-04-07 15.17.25.html#</link>
+            <pubDate>Tue, 02 Oct 2012 18:40:15 +0200</pubDate>
+            <description>Gruppenbild1</description>
+            <media:description type="html">Gruppenbild1</media:description>
+            <media:thumbnail url="thumbs/2012-04-07 15.17.25.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/2012-04-07 15.17.25.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="07.04.12 15:17" cameraMake="SAMSUNG" cameraModel="GT-S5830"/>
+            <guid isPermaLink="false">slides/2012-04-07 15.17.25.jpg</guid>
+        </item>
+        <item>
+            <title>2012-04-07 15.17.11</title>
+            <link>slides/2012-04-07 15.17.11.html#</link>
+            <pubDate>Tue, 02 Oct 2012 18:40:15 +0200</pubDate>
+            <description>Gruppenbild2</description>
+            <media:description type="html">Gruppenbild2</media:description>
+            <media:thumbnail url="thumbs/2012-04-07 15.17.11.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/2012-04-07 15.17.11.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="07.04.12 15:17" cameraMake="SAMSUNG" cameraModel="GT-S5830"/>
+            <guid isPermaLink="false">slides/2012-04-07 15.17.11.jpg</guid>
+        </item>
+        <item>
+            <title>2012-04-07 15.17.29</title>
+            <link>slides/2012-04-07 15.17.29.html#</link>
+            <pubDate>Tue, 02 Oct 2012 18:40:15 +0200</pubDate>
+            <description>Gruppenbild3</description>
+            <media:description type="html">Gruppenbild3</media:description>
+            <media:thumbnail url="thumbs/2012-04-07 15.17.29.jpg" width="174" height="174"/>
+            <media:content type="image/jpeg" url="slides/2012-04-07 15.17.29.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="07.04.12 15:17" cameraMake="SAMSUNG" cameraModel="GT-S5830"/>
+            <guid isPermaLink="false">slides/2012-04-07 15.17.29.jpg</guid>
+        </item>
+    </channel>
+</rss>

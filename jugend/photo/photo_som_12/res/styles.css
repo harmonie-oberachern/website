@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+body {
+	background: #FFC000;
+	color: black;
+}
+
+a:link,
+a:visited {
+	color: black;
+}
+
+a:active,
+a:hover {
+	color: white;
+}
+
+.description,
+#index ul.folders li .folder_info p {
+	color: black;	
+}
+
+#bottom_container {
+	border-top-color: black;	
+}
+
+#index ul.thumbnails li img {
+	background: #fff;
+}
+#slide{color:black;
+}
+#slide #main_img,
+#index ul.folders li img,
+#slide ul.thumbnails li img {
+	border-color: #fff;
+}
+
+
+#index ul.folders li a,
+#slide ul.thumbnails li a {
+	background: #333;
+	color: white;
+}
+
+#index ul.folders li a:hover,
+#slide ul.thumbnails li a:hover {
+	color: white;
+}

@@ -1,0 +1,67 @@
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1> Anmeldung zur „Tour de Baggersee 2012"</h1>
+
+<script src="http://der-formular-service.com/wcformcheck.php" type="text/javascript"></script>
+<form method="POST" action="http://der-formular-service.com" onSubmit="return WCformcheck();">
+<input type="hidden" name="formid" value="130861">
+<input type="hidden" name="formpass" value="2e95cb5158caebde9dc4614fe3e06828">
+ Vorname &nbsp;&nbsp;&nbsp;
+<input type="text" name="Vorname"> <br><br>
+Nachname&nbsp;&nbsp;
+<input type="text" name="Nachnahme"> <br> <br>
+Geschlecht <br>
+<input type="radio" name="Geschlecht" value ="m" checked> m&auml;nnlich <br>
+<input type="radio" name="Geschlecht" value ="w"> weiblich <br> <br>
+Ich bin <br>
+<input type="radio" name="Alter" value ="unter" checked> unter 18 <br>
+<input type="radio" name="Alter" value ="ueber"> &uuml;ber 18 <br> <br>
+Ich bin ein <br>
+<input type="radio" name="Schwi" value ="nichtschwimmer" checked> Nichtschwimmer <br>
+<input type="radio" name="Schwi" value ="schwimmer"> sehr guter Schwimmer <br> <br>
+Ich bringe mit <br>
+<table> <tr> <td>
+Baquette </td> <td> 
+<select name="AnzahlBaquette" size=1>
+<option selected> kein</option> 
+<option> 1 St&uuml;ck </option>
+<option> 2 St&uuml;ck</option>
+<option> 2 St&uuml;ck </option>
+<option> 4 St&uuml;ck </option>
+</select> <br> </td> </tr>
+<tr> <td>
+Würstchen </td> <td>
+<select name="WürstchenSt" size=1>
+<option selected> kein</option> 
+<option> 2 St&uuml;ck </option>
+<option> 4 St&uuml;ck </option>
+<option> 8 St&uuml;ck </option>
+<option> 10 St&uuml;ck </option>
+</select> <br> </td> </tr>
+<tr> <td>
+Salat </td> <td>
+ <input type="text" name="Salatart">&nbsp;&nbsp;(Gr&uuml;ner Salat, Tomatensalat, Kartoffelsalat, Nudelsalat, ...)
+ </td> </tr>
+  </table>
+  <p><input type="checkbox" name="KuchenJA" value="Ja" onclick="neuForm();">Ich bringe noch einen Kuchen mit <input name="KuchenArt" type="text" placeholder="Bitte nur trockener Kuchen" size="25"></p>
+  <p>Außerdem kann ich
+  <select name="MengeZelt" size=1>
+  <option> kein </option>
+<option selected> 1 </option>
+<option> 2 </option>
+<option> 3 </option>
+</select> Zelt(e) f&uuml;r jeweils <input type="text" name="AnzahlpersonenProZelt"> Personen mitbringen. </p>
+<p> Ich habe folgende Allergien: </p>
+<textarea name="Allergien" cols="40" rows="2">  </textarea> <br> <br>
+<table> <tr> <td>
+<p>Sonstige wichtige Hinweise:</p> </td></tr> <tr>  <td>
+<textarea name="sonstiges" cols="40" rows="2">  </textarea></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td> <td><a href="packliste.pdf"> Hier gehts zur Packliste!!! </a> </td> </tr> </table>
+<input type="submit" value="Abschicken">
+<input type="reset" value="Eingabe löschen">
+</form>
+<a target="_blank" href="http://der-formular-service.com"><img src="http://der-formular-service.com/wccheckbutton.php?formid=130861" border="0"></a>
+</body>
+</html>

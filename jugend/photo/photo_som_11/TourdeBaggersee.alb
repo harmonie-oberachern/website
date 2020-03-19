@@ -1,0 +1,89 @@
+<webalbum version="1.8.2">
+  <title>Tour de Baggersee</title>
+  <description>
+    <line>Impressionen des diesjährigen Zeltlagers</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <homeurl>http://www.mvoberachern.de</homeurl>
+    <outputdirectory>C:\Dokumente und Einstellungen\Flo\Eigene Dateien\Website\TourdeBaggersee\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Winery</colourscheme>
+    <pagecolor>3343190</pagecolor>
+    <textcolor>15000817</textcolor>
+    <linkcolor>9540040</linkcolor>
+    <hotlinkcolor>13619175</hotlinkcolor>
+    <thumbnailrows>4</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>True</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <title>kurze Verschnaufpause</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_1004.JPG</filename>
+    </photo>
+    <photo>
+      <title>Start der Tour</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0788.JPG</filename>
+    </photo>
+    <photo>
+      <title>Chris Armstrong</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0794.JPG</filename>
+    </photo>
+    <photo>
+      <title>Julia Armstrong</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0805.JPG</filename>
+    </photo>
+    <photo>
+      <title>das Jamaika-team</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0807.JPG</filename>
+    </photo>
+    <photo>
+      <title>die Nachhut</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0830.JPG</filename>
+    </photo>
+    <photo>
+      <title>Team Deutschland</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0843.JPG</filename>
+    </photo>
+    <photo>
+      <title>Flaggenmalen</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0844.JPG</filename>
+    </photo>
+    <photo>
+      <title>Strand Wrestling</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0857.JPG</filename>
+    </photo>
+    <photo>
+      <title>Jamaika bei der Nahrungsaufnahme</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0877.JPG</filename>
+    </photo>
+    <photo>
+      <title>Grillen1</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0878.JPG</filename>
+    </photo>
+    <photo>
+      <title>Grillen2</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0879.JPG</filename>
+    </photo>
+    <photo>
+      <title>Eine Bootstour</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0917.JPG</filename>
+    </photo>
+    <photo>
+      <title>Gruppenbild1</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0979.JPG</filename>
+    </photo>
+    <photo>
+      <title>Lena und Julia vor der letzten Etappe</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0992.JPG</filename>
+    </photo>
+    <photo>
+      <title>Selina und Sarah vo der letzten Etappe</title>
+      <filename>G:\Bilder Zeltlager 11\PIC_0999.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>
