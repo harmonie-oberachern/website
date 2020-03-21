@@ -63,7 +63,7 @@
 			}
 		}
 
-		&.main {
+		&.imageContainer {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
 			width: 100%;
@@ -74,13 +74,13 @@
 		}
 
 		@include breakpoint('<=small') {
-			&.main {
+			&.imageContainer {
 				margin: (_size(element-margin) * 1) 0;
 			}
 		}
 
 		@include breakpoint('<=xsmall') {
-			&.main {
+			&.imageContainer {
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
