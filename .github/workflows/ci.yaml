@@ -1,0 +1,19 @@
+name: Deployment
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v2
+      - name: "Deploy"
+        uses: milanmk/actions-file-deployer@1.10
+        with:
+          remote-protocol: "sftp"
+          remote-host: "ssh.strato.de"
+          remote-user: "www.mvoberachern.de"
+          ssh-private-key: ${{ secrets.STRATO_MASTER }}
+          remote-path: "/"
