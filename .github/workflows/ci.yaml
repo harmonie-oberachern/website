@@ -17,5 +17,5 @@ jobs:
           remote-protocol: "sftp"
           remote-host: "ssh.strato.de"
           remote-user: "www.mvoberachern.de"
-          ssh-private-key: ${{ secrets.STRATO_MASTER }}
+          remote-password: ${{ secrets.STRATO_MASTER }}
           remote-path: "/"
