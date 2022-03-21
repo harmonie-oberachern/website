@@ -1,2 +1,2 @@
-# website_harmonie_oberachern
-This is the new website of the *Musikverein Harmonie Oberachern e.V.* 
+# Webseite der Harmonie Oberachern
+Das ist die Webseite des *Musikverein Harmonie Oberachern e.V.*.
