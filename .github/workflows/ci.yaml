@@ -8,11 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
       - name: "Deploy"
-        uses: milanmk/actions-file-deployer@1.15
+        uses: milanmk/actions-file-deployer@1.17
         with:
           remote-protocol: "sftp"
           remote-host: "ssh.strato.de"
